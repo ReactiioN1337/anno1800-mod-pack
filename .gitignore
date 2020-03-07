@@ -1,0 +1,4 @@
+.cache/
+dummy
+*.log
+*.error-log
